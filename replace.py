@@ -1,9 +1,9 @@
 import os
 
-folder_name= 'test'
-path = '{}/{}'.format(os.getcwd(), folder_name )
-extension = 'xml'
-expression, replacement = 'testing_images', 'test'
+folder_name= 'test' # enter the name of the target folder/directory
+path = '{}/{}'.format(os.getcwd(), folder_name )# if this python file is outside the folder
+extension = 'xml'# choose the intended extension to be searched
+expression, replacement = 'testing_images', 'test' #the string we are searching for and its replacement
 
 
 def main():
