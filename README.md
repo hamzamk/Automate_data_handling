@@ -1,3 +1,6 @@
-# Search and replace_string_in_text_file
-Python3 script for finding text files, matching their contents and replacing them
+# Python functions to process text and image data for Machine Learning Projects. 
+1. Search and replace strings text files
+2. Change the name of the files
+3. Convert images to jpg or any other format
+
 
