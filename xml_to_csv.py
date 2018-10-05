@@ -32,5 +32,5 @@ def main():
         xml_df.to_csv((folder + '_labels.csv'), index=None)
         print('Successfully converted xml to csv.')
 
-
-main()
+if __name__ == '__main__':
+    main()
