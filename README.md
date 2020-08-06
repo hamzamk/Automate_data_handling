@@ -1,6 +1,7 @@
-# Automate image and text data handling for Machine Learning Projects. 
-1. Search and replace strings in text files using replace.py
-2. Change the name of the files
-3. Convert images to jpg or any other format
+# Python scripts to automate image and text data handling for Machine Learning Projects.
+
+1. Search(loop) in directories and replace strings inside text files using replace.py
+2. Search(loop) over directories and change the name of the files
+3. batch Convertion of images to jpg or any other format in a directory
 
 
